@@ -1,0 +1,13 @@
+# Vantage Vision Firmware - Python Dependencies
+# Run: pip install -r requirements.txt
+
+# Core Computer Vision
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# AI and YOLO Inference
+ultralytics>=8.0.0
+
+# Performance & Utilities
+pillow>=10.0.0
+requests>=2.31.0
