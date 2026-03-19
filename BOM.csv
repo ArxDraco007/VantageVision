@@ -1,0 +1,4 @@
+Part,Quantity,Purpose,Link
+Raspberry Pi 5 (8GB),1,Main processing unit (The Brain),https://www.raspberrypi.com/products/raspberry-pi-5/
+Raspberry Pi AI HAT+,1,NPU for running YOLO models locally,https://www.raspberrypi.com/products/ai-hat-plus/
+Raspberry Pi Active Cooler,1,Thermal management for the Pi 5,https://www.raspberrypi.com/products/active-cooler/
