@@ -27,8 +27,6 @@ I trained my Vision model on a hundred epochs and received the following results
 
 ![Screenshot 2026-03-08 120035](https://stasis.hackclub-assets.com/images/1772951521236-j1kko3.png)
 
-![image](https://stasis.hackclub-assets.com/images/1772951521635-yt05k3.png)
-![image](https://stasis.hackclub-assets.com/images/1772951521236-j1kko3.png)
 
 # 3/6/2026 1 PM - Designing the Temporary Prediction and Interface App
 
@@ -42,5 +40,4 @@ With some help and guidance from my mentors and AI, I started to get a hang of h
 
 ![image](https://stasis.hackclub-assets.com/images/1772770826294-9qnzpy.png)
 
-![image](https://stasis.hackclub-assets.com/images/1772770740793-fsjedo.png)
-![image](https://stasis.hackclub-assets.com/images/1772770826294-9qnzpy.png)
+
