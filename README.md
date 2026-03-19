@@ -14,8 +14,6 @@ I started by understanding what CAD means. I explored various software such as B
 
 ![image (1)](https://stasis.hackclub-assets.com/images/1773905220049-x1b28d.png)
 
-![image](https://stasis.hackclub-assets.com/images/1773905217598-uw4rpk.png)
-![image](https://stasis.hackclub-assets.com/images/1773905220049-x1b28d.png)
 
 # 3/8/2026 6 AM - Finding Datasets and Developing the Model
 
