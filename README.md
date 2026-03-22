@@ -14,7 +14,7 @@ Vantage is an intelligent wearable "brain box" designed to help users navigate t
 | AI Accelerator   | Raspberry Pi AI HAT+           | 13 TOPS performance via the Hailo-8 chip                    |
 | Vision System    | USB Mini-Module                | Improved durability over ribbon cable-based cameras         |
 | Framework        | Flutter                        | Cross-platform support for Android and iOS                  |
-| Model            | YOLOv8                         | Optimized for edge inference on Hailo-8 architecture        |
+| Model            | YOLOv26n                         | Optimized for edge inference   |
 
 ---
 
