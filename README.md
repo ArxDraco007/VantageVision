@@ -2,7 +2,8 @@
 
 Real-time spatial awareness for the visually impaired.
 
-Vantage is an intelligent wearable "brain box" designed to help users navigate the physical world safely and independently. Built on the Raspberry Pi 5 and accelerated by the Hailo-8 AI processor, it detects obstacles such as curbs, potholes, vehicles, and environmental structures in real-time, providing actionable spatial feedback.
+Vantage is an AI-driven "Co-Pilot" that merges global navigation with local safety, enabling the visually impaired with spatial and situational awareness by integrating GPS routing with Computer Vision to allow a visually impaired person to travel from their doorstep to any destination independently.
+Current tools force the user to choose between Google Maps, ignoring obstacles, or a White Cane, which has no map. The current market solves this with expensive hardware ($3,000+). This creates a "safety tax" that most people in developing regions cannot afford. By combining an LLM-based voice assistant for routing with edge-based hazard detection, we provide the first "End-to-End" autonomy solution, tackling both the physical danger of navigation and the economic barrier.
 
 ---
 
