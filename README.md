@@ -58,29 +58,35 @@ These results indicate strong detection performance suitable for real-world depl
 
 ## Development Journey
 
-### Phase 4: Hardware Integration (Current)
+### Phase 1: Foundation and Application Development
 
-- Finalized the "Brain Box" assembly
-- Transitioned from Pi Camera ribbon cables to a USB camera module to improve reliability during motion
-- Resolved thermal constraints by repositioning the cooling system
-
-### Phase 3: CAD and Enclosure Design
-
-- Learned Autodesk Fusion 360 from scratch
-- Addressed component fitting challenges by breaking external references
-- Applied a 1.1x clearance factor to ensure proper internal fitment
+- Initially developed in Kotlin, later transitioned to Flutter for cross-platform support
+- Built initial user interface
+- Integrated a temporary TensorFlow Lite model for early-stage validation
+![image](https://stasis.hackclub-assets.com/images/1772770740793-fsjedo.png)
 
 ### Phase 2: Data Science and Model Training
 
 - Aggregated datasets from Roboflow
 - Migrated from Google Colab to Kaggle for improved GPU performance
 - Achieved 83% mAP@50, validating readiness for real-world testing
+![image](https://stasis.hackclub-assets.com/images/1772951521635-yt05k3.png)
+![image](https://stasis.hackclub-assets.com/images/1772951521236-j1kko3.png)
 
-### Phase 1: Foundation and Application Development
+### Phase 3: CAD and Enclosure Design
 
-- Initially developed in Kotlin, later transitioned to Flutter for cross-platform support
-- Built initial user interface
-- Integrated a temporary TensorFlow Lite model for early-stage validation
+- Learned Autodesk Fusion 360 from scratch
+- Addressed component fitting challenges by breaking external references
+- Applied a 1.1x clearance factor to ensure proper internal fitment
+![image](https://stasis.hackclub-assets.com/images/1773905220049-x1b28d.png)
+
+### Phase 4: Hardware Integration (Current)
+
+- Finalized the "Brain Box" assembly
+- Transitioned from Pi Camera ribbon cables to a USB camera module to improve reliability during motion
+- Resolved thermal constraints by repositioning the cooling system
+![image](https://stasis.hackclub-assets.com/images/1774194197082-py714i.png)
+![image](https://stasis.hackclub-assets.com/images/1774194196919-x11cjl.png)
 
 ---
 
